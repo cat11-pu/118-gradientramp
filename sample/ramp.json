@@ -1,0 +1,11 @@
+{
+  "unsorted_error_code": "E_UNSORTED_STOPS",
+  "empty_error_code": "E_EMPTY_STOPS",
+  "position_error_code": "E_BAD_POSITION",
+  "stops": [
+    {"at": 0, "color": [0, 0, 0]},
+    {"at": 0.25, "color": [255, 0, 0]},
+    {"at": 1, "color": [255, 255, 255]}
+  ],
+  "samples": [0, 0.125, 0.25, 0.6, 1]
+}
